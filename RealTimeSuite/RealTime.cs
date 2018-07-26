@@ -13,7 +13,6 @@ namespace RealTimeSuite
     [HubName("RealTimeHub")]
     public class RealTime : Hub
     {
-        static PerformanceMonitor monitor = new PerformanceMonitor();
         Mail mail = new Mail();
         public RealTime()
         {

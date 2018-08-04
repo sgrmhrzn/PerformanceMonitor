@@ -1,4 +1,4 @@
-# PerformanceMonitor
+# Performance Monitor
 What does this application do?
 
 1. Creates text file with performance log according.
